@@ -1,4 +1,4 @@
-# Case Study: Enhancing Instagram Reels User Experience
+# Instagram Reels Product Management Case Study
 
 # Objective
 - The Instagram Reels team aimed to enhance user engagement and content discoverability within the platform. The project focused on understanding user needs and translating them into actionable product requirements and a strategic roadmap.
